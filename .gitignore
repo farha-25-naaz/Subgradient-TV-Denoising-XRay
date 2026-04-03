@@ -1,0 +1,14 @@
+# Ignore the massive dataset folder
+chest_xray/
+__MACOSX/
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore the Kaggle zip file
+*.zip
+
+# Ignore local environment files
+.env
